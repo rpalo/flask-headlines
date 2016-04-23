@@ -1,4 +1,7 @@
+
 from flask import Flask, render_template
+#!.venv/bin/python
+from flask import Flask
 import feedparser
 
 app = Flask(__name__)
